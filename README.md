@@ -6,9 +6,9 @@
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Front End Developer and Analyst Test Jr!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil, Manaus-AM.
 
 :books: I’m currently learning everything.
 
