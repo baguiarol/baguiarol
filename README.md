@@ -18,6 +18,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baguiarol)](https://github.com/baguiarol/github-readme-stats)
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <code><img height= "20" src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> </code>
 <code><img height= "20" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
