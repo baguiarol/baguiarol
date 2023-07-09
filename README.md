@@ -4,9 +4,9 @@
 
 ## I'm Brenda!
 
- 
+🎓 Computer Science
 
-:computer: I'm Front End Developer and Analyst Test Jr!
+:computer: I'm Front End Developer and Quality Asserance Jr!
 
 :house_with_garden: I’m from Brazil, Manaus-AM.
 
