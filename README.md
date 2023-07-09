@@ -4,7 +4,7 @@
 
 ## I'm Brenda!
 
-🎓 Computer Science
+🎓 Graduated in Computer Science 👩🏽‍💻
 
 :computer: I'm Front End Developer and Quality Asserance Jr!
 
